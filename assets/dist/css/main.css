@@ -1,0 +1,27 @@
+.m-banner {
+  display: flex;
+}
+.m-banner .banner-img {
+  height: 220px;
+}
+.m-banner .banner-img-1 {
+  width: 417px;
+}
+.m-banner .banner-img-2 {
+  width: 334px;
+}
+.m-banner .banner-guide {
+  width: 100%;
+}
+.m-guide {
+  color: #fff;
+  background-color: #64372d;
+}
+.m-guide .guide-head {
+  line-height: 28px;
+  padding: 10px;
+  background-color: #542a1e;
+}
+.m-guide .guide-body {
+  padding: 12px 10px;
+}
